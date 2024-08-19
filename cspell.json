@@ -1,0 +1,34 @@
+{
+  "dictionaries": [],
+  "ignorePaths": [
+    ".astro",
+    "{build,dist,out}",
+    "**/*.{lock,txt}",
+    "eslint.config.js",
+    "pnpm-lock.yaml",
+    "src/**/{uk,pl}/**/*.{md,mdx}"
+  ],
+  "ignoreWords": [],
+  "import": [],
+  "language": "en",
+  "version": "0.2",
+  "words": [
+    "appts",
+    "astrojs",
+    "destr",
+    "knip",
+    "Kornienko",
+    "Korniienko",
+    "Nazar",
+    "Nazarii",
+    "noknip",
+    "pathe",
+    "Polski",
+    "redrun",
+    "reli",
+    "Relivator",
+    "typecheck",
+    "venv",
+    "Українська"
+  ]
+}
