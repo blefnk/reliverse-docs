@@ -11,6 +11,11 @@ export const sitemap = {
         dateUpdated: "18.08.2024",
         ext: "md",
       },
+      v130: {
+        dateCreated: "15.08.2024",
+        dateUpdated: "18.08.2024",
+        ext: "md",
+      },
     },
     reliverse: {
       "get-started": {
